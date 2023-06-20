@@ -28,7 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:fontFamily="@font/leeseoyun"
-        android:text="모바일 소프트웨어 02분반"
+        android:text="모바일 소프트웨어 01분반"
         android:textSize="20sp" />
 
     <TextView
