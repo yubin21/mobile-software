@@ -4,6 +4,7 @@
 https://github.com/yubin21/mobile-software/assets/80163835/e2eb302f-183a-44a8-9637-b7e6eb58e35c
 
 하단은 검색 기록이 포함된 영상입니다. (개발자 소개에서 02분반으로 잘못 표기된 사항이 있습니다.)
+
 https://github.com/yubin21/mobile-software/assets/80163835/7386d03c-d29b-4a6d-a08d-d79e5caf5dcd
 
 [기본 기능 이외의 추가적인 기능]
