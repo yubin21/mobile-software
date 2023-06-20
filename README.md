@@ -1,5 +1,6 @@
 ## 오늘일기
 23 모바일 소프트웨어 최종 과제 [오늘 일기] 레포지토리입니다.
+![오늘 일기](https://github.com/yubin21/mobile-software/assets/80163835/4cd4fdd4-5952-4c0b-ac44-28abf45c71d0)
 
 https://github.com/yubin21/mobile-software/assets/80163835/e2eb302f-183a-44a8-9637-b7e6eb58e35c
 
