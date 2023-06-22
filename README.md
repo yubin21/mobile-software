@@ -2,13 +2,16 @@
 23 모바일 소프트웨어 최종 과제 [오늘 일기] 레포지토리입니다.
 ![오늘 일기](https://github.com/yubin21/mobile-software/assets/80163835/4cd4fdd4-5952-4c0b-ac44-28abf45c71d0)
 
-https://github.com/yubin21/mobile-software/assets/80163835/e2eb302f-183a-44a8-9637-b7e6eb58e35c
+https://github.com/yubin21/mobile-software/assets/80163835/76fa43a0-69f4-4841-9e70-26b1fcbdfcdd
+
 
 하단은 검색 기록이 포함된 영상입니다. (개발자 소개에서 02분반으로 잘못 표기된 사항이 있습니다.)
 
-https://github.com/yubin21/mobile-software/assets/80163835/7386d03c-d29b-4a6d-a08d-d79e5caf5dcd
+https://github.com/yubin21/mobile-software/assets/80163835/39e39bc2-217c-48bd-91cb-97f508a39ce7
 
-[기본 기능 이외의 추가적인 기능]
+
+
+### 기본 기능 이외의 추가적인 기능
 
 1. 감정 고르기: 일기 추가 화면 이전에 fragment를 통해 오늘의 감정을 선택할 수 있습니다.
 2. 날짜 수정: 수정 화면에서 달력 위젯을 사용해 날짜를 변경할 수 있습니다.
